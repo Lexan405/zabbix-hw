@@ -42,6 +42,7 @@ sudo systemctl restart apache2
 sudo systemctl enable zabbix-server zabbix-agent apache2
 sudo systemctl start zabbix-server zabbix-agent
 
+## Скриншот авторизации
 
 ![](img/1.png)
 
