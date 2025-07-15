@@ -41,11 +41,10 @@ sudo sed -i 's/php_value date.timezone Europe\/Riga/php_value date.timezone Euro
 sudo systemctl restart apache2
 sudo systemctl enable zabbix-server zabbix-agent apache2
 sudo systemctl start zabbix-server zabbix-agent
-
-## Скриншот авторизации
+```
+###Скриншот авторизации
 
 ![](img/1.png)
-
 
 ---
 
